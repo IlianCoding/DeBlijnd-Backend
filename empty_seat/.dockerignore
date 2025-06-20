@@ -1,0 +1,17 @@
+__pycache__/
+__init__.py
+
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+test.http
+
+test_seats_1.jpg
+test_seats_2.jpg
+test_seats_3.jpg
+test_seats_4.jpg
+test_seats_5.jpg
+test_seats_6.jpg

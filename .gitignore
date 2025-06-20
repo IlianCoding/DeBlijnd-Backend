@@ -1,0 +1,13 @@
+# The idea files
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+/venv
+
+**/venv/
+**/.venv/

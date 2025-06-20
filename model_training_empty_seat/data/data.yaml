@@ -1,0 +1,6 @@
+names:
+- empty-seat-frontal
+nc: 1
+test: C:\Users\alpay\Documents\jaar3\Lab\vision-app-backend\model_training_empty_seat\data\test\images
+train: C:\Users\alpay\Documents\jaar3\Lab\vision-app-backend\model_training_empty_seat\data\train\images
+val: C:\Users\alpay\Documents\jaar3\Lab\vision-app-backend\model_training_empty_seat\data\valid\images

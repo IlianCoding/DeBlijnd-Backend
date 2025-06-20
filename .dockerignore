@@ -1,0 +1,5 @@
+.idea/
+.git/
+.gitlab-ci.yml
+.gitignore
+README.md

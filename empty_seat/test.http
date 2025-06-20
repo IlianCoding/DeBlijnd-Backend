@@ -1,0 +1,9 @@
+POST http://localhost:8000/api/detect_seat?debug=false
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="image"; filename="test_seats_6.jpg"
+Content-Type: image/jpeg
+
+< ./test_seats_6.jpg
+--boundary--

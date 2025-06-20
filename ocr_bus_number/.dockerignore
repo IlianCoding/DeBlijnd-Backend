@@ -1,0 +1,17 @@
+__pycache__/
+received_images/
+.idea/
+
+__init__.py
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+img.png
+test_1.jpg
+test_2.jpg
+test_3.jpg
+test_closeup.jpeg
+test_outside.jpeg
